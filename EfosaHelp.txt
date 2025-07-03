@@ -1,4 +1,5 @@
-Heyoo evertone, welcome to my guide
+Welcome to Git
+This is coming from dev Ekoi
 
 Yo, Johnny here!
 This is from a different source
